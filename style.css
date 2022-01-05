@@ -51,21 +51,32 @@ h2{
 }
 
 h3{
-    padding-left: 30px;
+    padding-left: 32px;
     color: crimson;
 }
 
 
 .first-para{
-    width: 50%;
-    color: rgb(211, 199, 223);
+    width: 80%;
+    color: rgb(168, 192, 182);
     box-shadow: 10px 20px 40px gray;
     background-image: linear-gradient(rgb(67, 65, 78), rgb(197, 176, 191));
-    border-radius: 15px;
-    padding: 5px;
+    border-radius: 10px;
+    padding: 20px;
     margin: 30px;
+    text-align: justify;
 }
 
+.second-para {
+    text-align: justify;
+    padding: 20px;
+    margin: 30px;
+    color: rgb(82, 238, 230);
+    box-shadow: 10px 20px 40px rgb(238, 158, 158);
+    background-image: linear-gradient(rgb(231, 56, 100), rgb(138, 191, 216));
+    border-radius: 10px;
+        
+}
 .neonText {
   color: rgb(145, 202, 91);
   text-shadow:
