@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+   
+    background-image: url(images/bodybg2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    margin-right: 0;
+}
+h1{
+    font-size: 60px;
+    color:rgb(21, 180, 16);
+    padding-left: 5px;
+    text-align: center;
+    text-shadow:
+    0 0 7px rgb(223, 130, 130),
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+
+h2{
+    
+    color:rgb(222, 238, 240);
+    padding-left: 5px;
+    text-align: center;
+   
+  text-shadow:
+    0 0 7px rgb(224, 82, 82),
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
+h3{
+    padding-left: 30px;
+    color: crimson;
+}
+
+
+.first-para{
+    width: 50%;
+    color: rgb(211, 199, 223);
+    box-shadow: 10px 20px 40px gray;
+    background-image: linear-gradient(rgb(67, 65, 78), rgb(197, 176, 191));
+    border-radius: 15px;
+    padding: 5px;
+    margin: 30px;
+}
+
+.neonText {
+  color: rgb(145, 202, 91);
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
+
